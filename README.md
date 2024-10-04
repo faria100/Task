@@ -4,5 +4,9 @@ A simple React application that demonstrates the use of React Router for navigat
 
 # Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive Header and Footer: Includes a sticky header and footer for easy navigation.
+- Dynamic Routing: Utilizes react-router-dom for navigating between different components/pages.
+- Data Fetching: Fetches GitHub user data to display follower count and profile picture.
+- User Interaction: Provides user interaction through a simple contact page.
+
+
